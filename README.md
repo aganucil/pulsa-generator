@@ -7,7 +7,7 @@ masukan perintah seperti ini :
 
 2. pkg install python git
 
-4. git clone 
+4. git clone https://github.com/aganucil/pulsa-generator.git
 
 3. termux-setup-storage
 
